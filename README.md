@@ -7,12 +7,12 @@ I cinque numi sono: Bahamut, Fenice, l'Arcobalena, Kyodai e Sheoldred.</p>
 
 L'avventura prevede cinque archi narrativi, uno per frammento di cristallo.
 
-##Bahamut's Shard (deepwood)
+## Bahamut's Shard (deepwood)
 
-##Fenix's Shard (deserted wasteland)
+## Fenix's Shard (deserted wasteland)
 
-##Arcobalena's Shard (ocean)
+## Arcobalena's Shard (ocean)
 
-##Kyodai's Shard (continente bianco)
+## Kyodai's Shard (continente bianco)
 
-##Sheoldred's Shard (underdark)
+## Sheoldred's Shard (underdark)
