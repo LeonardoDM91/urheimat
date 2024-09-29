@@ -69,3 +69,7 @@ Divisero il cristallo in cinque frammenti, uno per piano astrale, e vi assegnaro
 ### L'Underdark
 
 ### Razze e Civiltà
+
+### Tempi Odierni
+
+### World Of Ruin
