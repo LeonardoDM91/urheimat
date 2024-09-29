@@ -42,6 +42,12 @@ Divisero il cristallo in cinque frammenti, uno per piano astrale, e vi assegnaro
 
 ## Arcobalena's Shard (ocean)
 
+### L'Oceano Astrale
+
+### L'Arcipelago Tepenau
+
+### L'Omnirym e l'Isola Splendente
+
 ## Kyodai's Shard (continente bianco)
 
 ### Le 12 Tribu del Continente Bianco
@@ -53,4 +59,13 @@ Divisero il cristallo in cinque frammenti, uno per piano astrale, e vi assegnaro
 ### Tumulti Politici e Republicazzione
 
 ### Tempi Odierni
+
 ## Sheoldred's Shard (underdark)
+
+### (Noise) il Riverbero
+
+### La Nascita di Sheoldred
+
+### L'Underdark
+
+### Razze e Civiltà
