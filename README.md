@@ -38,8 +38,19 @@ Divisero il cristallo in cinque frammenti, uno per piano astrale, e vi assegnaro
 
 ### Cataclisma e Desertificazione
 
+### Tempi Odierni
+
 ## Arcobalena's Shard (ocean)
 
 ## Kyodai's Shard (continente bianco)
 
+### Le 12 Tribu del Continente Bianco
+
+### L'Esodo del Monaco
+
+### Fondazione della Teocrazia di Janis
+
+### Tumulti Politici e Republicazzione
+
+### Tempi Odierni
 ## Sheoldred's Shard (underdark)
