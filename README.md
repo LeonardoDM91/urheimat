@@ -61,7 +61,7 @@ Tutti i ricercatori occupavano la posizione di generale dell'esercito e riusciro
 
 A sud invece Caradoc, sempre sotto ordine di Sir Lanselot, instaurò una gilda che agiva tra le ombre del mercato nero alondininano e lindublumese, sotto il nome di Ragno Nero. Questo per impadronirsi della miniera di Phandelver, dove vi erano vecchie armi e soprattutto la tecnologia antica che si occupava di lavorare l'aetherite per migliorare la tecnica di forgiatura.
 
-### Reidoth e Tieg
+#### Reidoth e Tieg
 
 Un druido però di nome Reidoth annusò il pericolo nell'aria e cominciò ad indagare i sospettosi accadimenti nei dintorni di Phandelver. Arrivò a coinvolgere Tieg, il capo di una gilda, piccola ma affidabile e arrangiò gli accordi per aiutare tre nani fratelli. Questi da anni stavano indagando l'attività tellurica della regione ed erano arrivati alla conclusione che le ultime scosse erano sospette, non solo, ma che grazie ad esse forse si sarebbe riusciti a scovare una vena minerale di aetherite andata perduta.
 Quella che inizialmente era una semplice missione di scorta si tramutò ben presto in qualcosa di più grande. I nani vennero rapiti, proprio a causa delle ricerche che stavano compiendo. La tela del ragno era fitta e Caradoc, per non destare sospetti, faceva fare il lavoro sporco alle tribu sparpagliate dei goblin. Aiutò quello più grosso tra di loro e gli disse di prendersela con gli altri goblin per fare un esercito più grande, e di stabilirsi poi in un forte che avrebbero razziato. Da allora il bugbear (il goblin grosso) faceva finta di fare la vita da re tra un incarico e un altro di Caradoc.
