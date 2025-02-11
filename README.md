@@ -44,11 +44,32 @@ Qui al seguito della battaglia morirono Caradoc, il vecchio Re orchestratore del
 
 Il sistema a gilde crebbe così a macchia d'olio, perchè si rivelò flessibile, incentivando viaggi e scambi commerciali con le nazioni limitrofe. Nella regione del deepwood arrivarano a fondare una città nel capo a sud che comunicava con la fascia dell'arcipelago teperi (quello dei falchi da dove viene impe) e, attraverso di esso con il continente desertico. L'idea originale alla base del sistema a gilde si deduce provenga proprio sulla fascia dell'arcipelago, poichè tale sistema si arrivò a sviluppare sia nel continente desertico, che nella regione forestale in tempi vicini tra di loro, ma con delle differenze sostanziali:
 
-- Nel deepwood fonderanno una città centrale da che agevola e facilita il lavoro alle gilde, in modo che gli annunci per gli incarichi siano facilmente immissibili e da agevolare anche il reclutaggio per il determinato compito.
+- Nel deepwood fonderanno una città centrale (Lindblum) che agevola e facilita il lavoro alle gilde, in modo che gli annunci per gli incarichi siano facilmente immissibili e da agevolare anche il reclutaggio per il determinato compito.
 
 - Nella regione desertica, invece, le gilde assumeranno molto più la forma di entità economiche-commerciali che gestiscono le risorse della zona.
 
 ### Tempi Odierni
+
+Ad oggi la regione è tutto sommato pacifica e la civiltà vive e prolifera nella regione. A volte capita qualche incidente che vede l'impegno dell'esercito militare, soprattutto nel regione più a nordovest che confinano con quelle dei duergar, nani neri che abitano le caverne e li hanno fondato la loro civiltà nell'underdark. Sono i nani originali, e quello dal colore di pelle più chiaro che abitano ora ad Alondine discendono da loro. Fanno parte dei nani che hanno deciso di rimanere a vivere lì nell'underdark dopo il patto, ma non è un clima mite od una vita facile e la civiltà serba un antica invidia e rancore verso il resto della regione.
+Erano abili minatori e forgiatori però, e Re Xaradoc era tra quelli dall'arguzia invidiable. Anelava nell'ombra che lui ed il suo popolo avessero un posto al sole. Desiderava possedere anche lui il suo drago come gli eroi che venivano narrati nelle leggende perdute della sua popolazione prima della guerra. 
+
+
+#### Il Re Duergar Xarodoc e l'alleanza col Continente Bianco
+Fu proprio indagando la storia ed i resti che il Re arrivò a conoscere un gruppo di ricercatori con cui condivideva lo stesso interesse in comune. Da questo incontro nacque una terribile alleanza che diede adito al piano di xardorok di tentare di conquistare il resto del deepwood. Instituì una nuova religione farlocca, figlia di un vecchio culto che risaliva alla guerra dei magi per portare sotto la propria bandiera ogni individuo che volesse mettersi alla prova, promettendo grossi privilegi al fine della guerra e iniziò a rapire intere tribu o popolazioni dei villaggi più rudimentali. Erano prevalentemente razze dai connotati magici, come elfi, goblin e orchi.
+I maghi ricercatori in questione venivano dal continente bianco ed erano capitanati dal capo dell'intelligence sir Lanselot, il vessillo attuale di Lord Soth. Mentre sir Lanselot, prima reincendiò lo spettro del defunto Caradoc (il re traditore) e poi sviluppò diverse ricerche nella prigione duergare Revel's End dove si commettevano ricerche biologiche per il controllo mentale e la creazione di una nuova razza che potesse assumere le sembianze di qualsiasi individuo, i doppelganger per rimpolpare e rendere l'esercito il più efficiente possibile.
+Tutti i ricercatori occupavano la posizione di generale dell'esercito e riuscirono ad occupare gran parte della zona forestale durante la durata del conflitto per svolgere le proprie ricerche e trovare la cittadella dai nomi perduti.
+
+A sud invece Caradoc, sempre sotto ordine di Sir Lanselot, instaurò una gilda che agiva tra le ombre del mercato nero alondininano e lindublumese, sotto il nome di Ragno Nero. Questo per impadronirsi della miniera di Phandelver, dove vi erano vecchie armi e soprattutto la tecnologia antica che si occupava di lavorare l'aetherite per migliorare la tecnica di forgiatura.
+
+### Reidoth e Tieg
+
+Un druido però di nome Reidoth annusò il pericolo nell'aria e cominciò ad indagare i sospettosi accadimenti nei dintorni di Phandelver. Arrivò a coinvolgere Tieg, il capo di una gilda, piccola ma affidabile e arrangiò gli accordi per aiutare tre nani fratelli. Questi da anni stavano indagando l'attività tellurica della regione ed erano arrivati alla conclusione che le ultime scosse erano sospette, non solo, ma che grazie ad esse forse si sarebbe riusciti a scovare una vena minerale di aetherite andata perduta.
+Quella che inizialmente era una semplice missione di scorta si tramutò ben presto in qualcosa di più grande. I nani vennero rapiti, proprio a causa delle ricerche che stavano compiendo. La tela del ragno era fitta e Caradoc, per non destare sospetti, faceva fare il lavoro sporco alle tribu sparpagliate dei goblin. Aiutò quello più grosso tra di loro e gli disse di prendersela con gli altri goblin per fare un esercito più grande, e di stabilirsi poi in un forte che avrebbero razziato. Da allora il bugbear (il goblin grosso) faceva finta di fare la vita da re tra un incarico e un altro di Caradoc.
+
+La gilda riesce infine ad intrufolarsi nel forte dei goblin, dove non solo riescono a sconfiggere il loro capo, ma ad instaurare un nuovo re. Si tratta di tripp, uno dei primi goblin che avevano catturato ed interrogato e faceva la voce di diversi goblin che questo capo non gli piaceva. La gilda si intrufolò facendo finta di essere i prigionieri di tripp o dei suoi subalterni, uccisero il capo e poi tripp salì al trono, come per tradizione, dopo aver vinto un duello di forza contro gli altri candidati.
+Le regole del duello non furono rispettate da nessuno dei contendenti, ma anche questo faceva parte della tradizione dei goblin.
+
+Mentre Tieg e la gilda pensava a come salvare i nani dalle grinfie del bugbear, Reidoth era riuscito a localizzare attività sospette nel mezzo di un vecchio villaggio, ora disabitato a causa di una vecchia inondazione di nebbia (thundertree). Li vi aveva fatto casa un drago verde giovane e qualche bislacco seguace del nuovo culto che aveva reinsterauto re duergar e questo non gli piacque per nulla.
 
 ## Fenix's Shard (deserted wasteland)
 
