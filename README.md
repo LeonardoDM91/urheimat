@@ -53,8 +53,11 @@ Il sistema a gilde crebbe così a macchia d'olio, perchè si rivelò flessibile,
 Ad oggi la regione è tutto sommato pacifica e la civiltà vive e prolifera nella regione. A volte capita qualche incidente che vede l'impegno dell'esercito militare, soprattutto nel regione più a nordovest che confinano con quelle dei duergar, nani neri che abitano le caverne e li hanno fondato la loro civiltà nell'underdark. Sono i nani originali, e quello dal colore di pelle più chiaro che abitano ora ad Alondine discendono da loro. Fanno parte dei nani che hanno deciso di rimanere a vivere lì nell'underdark dopo il patto, ma non è un clima mite od una vita facile e la civiltà serba un antica invidia e rancore verso il resto della regione.
 Erano abili minatori e forgiatori però, e Re Xaradoc era tra quelli dall'arguzia invidiable. Anelava nell'ombra che lui ed il suo popolo avessero un posto al sole. Desiderava possedere anche lui il suo drago come gli eroi che venivano narrati nelle leggende perdute della sua popolazione prima della guerra. 
 
+# Campaign 1
 
-#### Il Re Duergar Xarodoc e l'alleanza col Continente Bianco
+## Part 1
+
+### Il Re Duergar Xarodoc e l'alleanza col Continente Bianco
 Fu proprio indagando la storia ed i resti che il Re arrivò a conoscere un gruppo di ricercatori con cui condivideva lo stesso interesse in comune. Da questo incontro nacque una terribile alleanza che diede adito al piano di xardorok di tentare di conquistare il resto del deepwood. Instituì una nuova religione farlocca, figlia di un vecchio culto che risaliva alla guerra dei magi per portare sotto la propria bandiera ogni individuo che volesse mettersi alla prova, promettendo grossi privilegi al fine della guerra e iniziò a rapire intere tribu o popolazioni dei villaggi più rudimentali. Erano prevalentemente razze dai connotati magici, come elfi, goblin e orchi.
 I maghi ricercatori in questione venivano dal continente bianco ed erano capitanati dal capo dell'intelligence sir Lanselot, il vessillo attuale di Lord Soth. Mentre sir Lanselot, prima reincendiò lo spettro del defunto Caradoc (il re traditore) e poi sviluppò diverse ricerche nella prigione duergare Revel's End dove si commettevano ricerche biologiche per il controllo mentale e la creazione di una nuova razza che potesse assumere le sembianze di qualsiasi individuo, i doppelganger per rimpolpare e rendere l'esercito il più efficiente possibile.
 Tutti i ricercatori occupavano la posizione di generale dell'esercito e riuscirono ad occupare gran parte della zona forestale durante la durata del conflitto per svolgere le proprie ricerche e trovare la cittadella dai nomi perduti.
@@ -69,7 +72,17 @@ Quella che inizialmente era una semplice missione di scorta si tramutò ben pres
 La gilda riesce infine ad intrufolarsi nel forte dei goblin, dove non solo riescono a sconfiggere il loro capo, ma ad instaurare un nuovo re. Si tratta di tripp, uno dei primi goblin che avevano catturato ed interrogato e faceva la voce di diversi goblin che questo capo non gli piaceva. La gilda si intrufolò facendo finta di essere i prigionieri di tripp o dei suoi subalterni, uccisero il capo e poi tripp salì al trono, come per tradizione, dopo aver vinto un duello di forza contro gli altri candidati.
 Le regole del duello non furono rispettate da nessuno dei contendenti, ma anche questo faceva parte della tradizione dei goblin.
 
-Mentre Tieg e la gilda pensava a come salvare i nani dalle grinfie del bugbear, Reidoth era riuscito a localizzare attività sospette nel mezzo di un vecchio villaggio, ora disabitato a causa di una vecchia inondazione di nebbia (thundertree). Li vi aveva fatto casa un drago verde giovane e qualche bislacco seguace del nuovo culto che aveva reinsterauto re duergar e questo non gli piacque per nulla.
+Mentre Tieg e la gilda pensava a come salvare i nani dalle grinfie del bugbear, Reidoth era riuscito a localizzare attività sospette nel mezzo di un vecchio villaggio, ora disabitato a causa di una vecchia inondazione di nebbia (thundertree). Li vi aveva fatto casa un drago verde giovane e qualche bislacco seguace del nuovo culto che aveva reinsterauto re duergar e questo non gli piacque per nulla. Decise così di radunare più prove possibili da qui in poi e, solo quando ne avesse di soddisfacenti, di presentarle al re di Alondine per allarmarlo. Nel frattempo non gli rimase che continuare di fare affidamento su Tieg e la sua Gilda. La gilda riesce a sgominare la cellula del culto e a scacciare il giovane drago dal villaggio. Da lì trovarono due dei fratelli nani, andarono per trovare il terzo ma era già troppo tardi. Il fratello più anziano si era diretto subito al centro delle rivelazioni telluriche della zona. In quel punto la gilda e Reidoth trovarono la tanto agognata caverna con la vena di aetherite. La miniera di Phandelver.
+
+### La Miniera di Phandelver
+
+Qui la gilda esplorò la caverna e la miniera. Un posto spaventoso dalla quale però si potevano ammirare diversi scenari insoliti, visto che la caverna era metà sommersa ed il cristallo creava riflessi luminosi sulle pareti, nell'illuminare l'incresparsi delle acqua.
+Non tutti i riflessi del minerale erano luminosi però, ed alcuni sezione di aetherite, specie nelle parti più profonde risultava annerito e le stesse sezioni della miniera sprofondavano nell'underdark.
+Lì la gilda trovò dei progetti delle armi antiche che avevano lasciato il personale che lavorava all'epoca, con tutte le creature che ne facevano da sistema di allarma, più quelle che si son annidate lì col passare degli anni. La fucina era stata utilizzata e dei progetti più nuovi e recenti che implicavano l'utilizzo di cinque maschere colorate.
+Lì non trovarono caradoc, ma il suo sottoposto doppelganger (uno dei tanti che aveva inoculato nei vari gruppetti che giravano attorno al ragno nero) che ne faceva le sue veci e si spacciava per essere il ragno nero.
+La gilda lo uccise e salvò il salvabile dopo che questa per poco non crollò a seguito della battaglia.
+
+## Part 2
 
 ## Fenix's Shard (deserted wasteland)
 
