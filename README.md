@@ -38,6 +38,16 @@ Il re ingannatore lasciò a governare suo fratello ad Alondine. Dovette passare 
 
 Qui al seguito della battaglia morirono Caradoc, il vecchio Re orchestratore dell'inganno, ucciso con altri abitanti della cittadella quando perse il controllo sul motore gravitazionale e si schiantò sulla superficie del continente. Morì anche il drago anziano primogenito di Bahamut, che era impazzito dalla rabbia e le cui fiamme erano arrivate a tingersi di viola, lo stesso colore che a volte rianimava i caduti in battaglia e ne trasformava completamente le attitudini ed il comportamento. Il drago morì per mano di sir Sarlamir, ed il drago era il suo migliore amico.
 
+### Gilde
+
+800 anni passarono da quel conflitto e di esso si hanno solo tenui ricordi. Parte della verità fu celata al popolo e la storia venne così manipolata. Il signore della foresta come divinità benevola viene solo ricordata nelle tradizioni più rurali, assieme a qualche altra divinità minore del luogo. La nebbia, sebbene sempre presente, non era più minacciosa come un tempo e non vi erano più inondazioni frequenti, permettendo così lo sviluppo di una solida civiltà magico-medievale. I pathfinder non esistevano più e si erano trasformate in gilda che si occupavano di mansioni tra le più disparate, sicurezza privata, informazioni, brigantaggio, caccia, commercio, teatro e arte.
+
+Il sistema a gilde crebbe così a macchia d'olio, perchè si rivelò flessibile, incentivando viaggi e scambi commerciali con le nazioni limitrofe. Nella regione del deepwood arrivarano a fondare una città nel capo a sud che comunicava con la fascia dell'arcipelago teperi (quello dei falchi da dove viene impe) e, attraverso di esso con il continente desertico. L'idea originale alla base del sistema a gilde si deduce provenga proprio sulla fascia dell'arcipelago, poichè tale sistema si arrivò a sviluppare sia nel continente desertico, che nella regione forestale in tempi vicini tra di loro, ma con delle differenze sostanziali:
+
+- Nel deepwood fonderanno una città centrale da che agevola e facilita il lavoro alle gilde, in modo che gli annunci per gli incarichi siano facilmente immissibili e da agevolare anche il reclutaggio per il determinato compito.
+
+- Nella regione desertica, invece, le gilde assumeranno molto più la forma di entità economiche-commerciali che gestiscono le risorse della zona.
+
 ### Tempi Odierni
 
 ## Fenix's Shard (deserted wasteland)
