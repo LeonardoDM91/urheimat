@@ -44,6 +44,14 @@
 ### Re Dorgalua
 ### Generale Vendri
 ### Tre Fratelli Nani
+### Bakaris
+### Nobles
+
+
+## Lindblum and the Union Alliance
+### Granduca
+### Gilde
+### Mercato Nero
 
 ## Deepwood
 
