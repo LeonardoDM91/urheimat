@@ -32,10 +32,6 @@
 #### Campaign 1
 #### Campaign 3/4
 
-
-#### Campaign 1
-#### Campaign 2
-
 ### Tatina Rookledust
 ### Character Players
 - Grog
