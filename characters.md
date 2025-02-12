@@ -28,7 +28,11 @@
 #### Campaign 1
 #### Campaign 2
 
-### Reidoth
+### Neve
+#### Campaign 1
+#### Campaign 3/4
+
+
 #### Campaign 1
 #### Campaign 2
 
@@ -37,6 +41,23 @@
 - Grog
 - Molvaias
 - Tholmor
+
+## Alondine
+
+### Reidoth
+### Re Dorgalua
+### Generale Vendri
+### Tre Fratelli Nani
+
+## Deepwood
+
+### Capa villaggio Copper Dragon
+### Fratello Minore Gold Dragon
+### Fisher Tribes
+### Tree Tribe Nomad Villages
+### Neve
+### Jimmy
+
 
 ## Duergar and Tiamath Cult
 ### Xaradoc
