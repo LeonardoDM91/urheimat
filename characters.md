@@ -1,8 +1,23 @@
 # Cast di Personaggi
+
+## Gilda: Amarganta
+
 ### Nube
 ### Impe
 ### Tek
 ### Rima
 ### Buzz/Dabi
 ### Tieg
-### Redot#h
+### Reidoth
+### Tatina Rookledust
+### Character Players
+- Grog
+- Molvaias
+- Tholmor
+
+
+
+
+## Impero Continente Bianco
+
+
