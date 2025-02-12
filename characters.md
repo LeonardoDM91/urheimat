@@ -38,8 +38,15 @@
 - Molvaias
 - Tholmor
 
-## Duergar
+## Duergar and Tiamath Cult
 ### Xaradoc
+
+## Severin R
+## U
+## G
+## B
+## W
+
 
 
 ## Impero Continente Bianco
