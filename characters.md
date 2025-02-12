@@ -40,7 +40,8 @@
 
 ## Duergar and Tiamath Cult
 ### Xaradoc
-
+### Caradorn
+### Ragno Nero
 ### Severin R
 ### U
 ### G
