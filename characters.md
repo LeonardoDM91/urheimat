@@ -13,6 +13,19 @@ Fu ritrovato da un druido, Reidoth, che lo fece rinsavire e lo mise sulla strada
 La madre, quando tornò, non lo riconobbe e questo, seppur con una nota amara, lo convinse ancora di più a non voltarsi indietro per intraprendere la strada da pathfinder di cui Reidoth gli aveva raccontato.
 Viaggiò con lui fino a Lindblum per arruolarlo all'interno di una gilda che conosceva molto bene e riteneva affidabile: Amarganta, di Tieg, detto anche l'Orco.
 
+#### Poteri e Magie C1
+Durante gli anni passati nella nebbia i ricordi di Nube si son confusi con i sogni e per questo, oltre ad avere problemi di memoria, ha idee abbastanza confuse sulla propria identità.
+E' dotato di un ottimo istinto o fiuto per scovare percorsi o intuire le vere intenzioni di una persona. Nonostante questo ha sempre avuto grandi problemi ad integrarsi nella società, avendo passato così tanto tempo nella foresta durante l'infanzia. Possiede un corpo agile e snello e sa arrampicarsi o nuotare senza troppo impegno.
+
+Riesce a comunicare con gli abitanti del feywild riuscendo così a scambiarsi favori e ad apprendere nuove magie da questo popolo incantato. Ha un limitato controllo sulla crescita delle piante e sul legno.
+Tra le altre magie a disposizione è in grado di richiamare delle creature che lo aiutano nelle varie situazioni che va ad affrontare, per poterlo fare deve stabilire una qualche sorta di legame, vederle o possedere uno dei loro core.
+
+E' in grado di utilizzare archi e balestre, nel combattimento corpo a corpo si avvale di un paio di daghe legate alla cinta, ma sa usare anche spade e coltelli bene.
+Il suo stile di combattimento è basato sul sotterfugio e cerca di imitare i grandi predatori dei boschi, manipola il campo di battaglia con ragnatele, spine o piante velenose mentre si confonde nell'ambiente per poter mirare con l'arco quando il nemico meno se lo aspetta.
+
+La prima creatura con cui legò è un Carbuncle, e da allora è il suo compagno più fidato. Insieme ad esso nube crescerà ed evolverà.
+
+
 #### Campaign 1
 Durante questa campagna Nube avrà la possibilità di trovare un posto dove potersi sentire accettato veramente, l'esercito di Alondine. Era una struttura meritocratica che permetteva ai mistkin come lui di trovare un posto all'interno della società e aiutare sua madre, anche se non lo aveva chiesto, comprandole una casa nella capitale. Non è che ci pensò attivamente, a dire il vero a diventare cavaliere, non se l'era mai sognato fino a quel momento. Ma l'occasione gli si presentò davanti tra una missione e l'altra della gilda. Un esercito sconosciuto attaccò Vogler, una ridente cittadina che sorgeva a fianco al fiume principale della regione. Gli abitanti furono costretti ad evacuare la città e la gilda aiutò i civili con le operazioni. La gilda si trovava in quei luoghi per puro caso, stava partecipando al funerale di uno dei tre fratelli nani conosciuti durante l'incarico alla miniera di phandelver.
 La gilda, i pochi dell'esercito sopravvissuti e gli abitanti che ce l'avevano fatta fuggirono verso Alondine a bordo di una piccola flotta di imbarcazioni improvvisate.
