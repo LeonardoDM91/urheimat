@@ -55,7 +55,7 @@ Erano abili minatori e forgiatori però, e Re Xaradoc era tra quelli dall'arguzi
 
 # Campaign 1
 
-## Part 1
+### Part 1
 
 #### Il Re Duergar Xarodoc e l'alleanza col Continente Bianco
 Fu proprio indagando la storia ed i resti che il Re arrivò a conoscere un gruppo di ricercatori con cui condivideva lo stesso interesse in comune. Da questo incontro nacque una terribile alleanza che diede adito al piano di xardorok di tentare di conquistare il resto del deepwood. Instituì una nuova religione farlocca, figlia di un vecchio culto che risaliva alla guerra dei magi per portare sotto la propria bandiera ogni individuo che volesse mettersi alla prova, promettendo grossi privilegi al fine della guerra e iniziò a rapire intere tribu o popolazioni dei villaggi più rudimentali. Erano prevalentemente razze dai connotati magici, come elfi, goblin e orchi.
@@ -74,15 +74,39 @@ Le regole del duello non furono rispettate da nessuno dei contendenti, ma anche 
 
 Mentre Tieg e la gilda pensava a come salvare i nani dalle grinfie del bugbear, Reidoth era riuscito a localizzare attività sospette nel mezzo di un vecchio villaggio, ora disabitato a causa di una vecchia inondazione di nebbia (thundertree). Li vi aveva fatto casa un drago verde giovane e qualche bislacco seguace del nuovo culto che aveva reinsterauto re duergar e questo non gli piacque per nulla. Decise così di radunare più prove possibili da qui in poi e, solo quando ne avesse di soddisfacenti, di presentarle al re di Alondine per allarmarlo. Nel frattempo non gli rimase che continuare di fare affidamento su Tieg e la sua Gilda. La gilda riesce a sgominare la cellula del culto e a scacciare il giovane drago dal villaggio. Da lì trovarono due dei fratelli nani, andarono per trovare il terzo ma era già troppo tardi. Il fratello più anziano si era diretto subito al centro delle rivelazioni telluriche della zona. In quel punto la gilda e Reidoth trovarono la tanto agognata caverna con la vena di aetherite. La miniera di Phandelver.
 
-### La Miniera di Phandelver
+#### La Miniera di Phandelver
 
 Qui la gilda esplorò la caverna e la miniera. Un posto spaventoso dalla quale però si potevano ammirare diversi scenari insoliti, visto che la caverna era metà sommersa ed il cristallo creava riflessi luminosi sulle pareti, nell'illuminare l'incresparsi delle acqua.
 Non tutti i riflessi del minerale erano luminosi però, ed alcuni sezione di aetherite, specie nelle parti più profonde risultava annerito e le stesse sezioni della miniera sprofondavano nell'underdark.
 Lì la gilda trovò dei progetti delle armi antiche che avevano lasciato il personale che lavorava all'epoca, con tutte le creature che ne facevano da sistema di allarma, più quelle che si son annidate lì col passare degli anni. La fucina era stata utilizzata e dei progetti più nuovi e recenti che implicavano l'utilizzo di cinque maschere colorate.
-Lì non trovarono caradoc, ma il suo sottoposto doppelganger (uno dei tanti che aveva inoculato nei vari gruppetti che giravano attorno al ragno nero) che ne faceva le sue veci e si spacciava per essere il ragno nero.
+Lì non trovarono caradorn, ma il suo sottoposto doppelganger (uno dei tanti che aveva inoculato nei vari gruppetti che giravano attorno al ragno nero) che ne faceva le sue veci e si spacciava per essere il ragno nero.
 La gilda lo uccise e salvò il salvabile dopo che questa per poco non crollò a seguito della battaglia.
 
-## Part 2
+### Part 2
+
+#### Attacco a Vogler
+
+La gilda, completata la missione e fatto un resoconto a Reidoth, decide di incamminarsi verso Vogler. Un paesino ai piedi di un fiume nella quale il fratello nano deceduto aveva un'abitazione. Erano lì per diversi motivi a dire il vero. Reidoth voleva raggiungere uno delle roccaforti dell'esercito Alondiniano per riportare quanto scoperto, attendere il funerale del nano deceduto e... partecipare alle festività del martin pescatore, che per un caso fortuito capitavano proprio in quel periodo.
+Stava procedendo tutto per il verso giusto, fin quando non venne il momento celebrativo del revival di una vecchia battaglia combattuto lì e recitata per questioni cerimoniali. Tra i vari attori si nascosero anche dei mercenari di razze diverse che, nel più bello, attaccarono il villaggio. 
+Le gilde e l'esercito riuscirono a limitare i danni, ma, dopo un giorno di assedio, capirono che la soluzione più sicura sarebbe stato far evacuare gli abitanti e scappare attraverso il fiume per avvicinarsi alla 
+capitale, visto che ai mercenari si erano uniti uno strano esercito ancora non visto prima. L'esercito della regina dei draghi.
+Diedero via al piano di evacuazione e ce la fecero, ma sia Reidoth che Tieg rimasero indietro per poter guadagnare tempo.
+
+#### Arrivo ad Alondine e Reclutamento nell'Esercito
+
+#### Nobili Sospettosi e la grande Fuga
+
+#### Il Deepwood: tribu antiche e templi dimenticati
+
+#### Città dei Nomi Perduti
+
+#### Tenuta Bakaris e Revel's End
+
+#### Processo
+
+#### La Battaglia per la Libertà
+
+#### L'incidente di Alondine
 
 ## Fenix's Shard (deserted wasteland)
 
