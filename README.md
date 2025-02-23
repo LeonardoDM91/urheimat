@@ -57,7 +57,7 @@ Erano abili minatori e forgiatori però, e Re Xaradoc era tra quelli dall'arguzi
 
 ## Part 1
 
-### Il Re Duergar Xarodoc e l'alleanza col Continente Bianco
+#### Il Re Duergar Xarodoc e l'alleanza col Continente Bianco
 Fu proprio indagando la storia ed i resti che il Re arrivò a conoscere un gruppo di ricercatori con cui condivideva lo stesso interesse in comune. Da questo incontro nacque una terribile alleanza che diede adito al piano di xardorok di tentare di conquistare il resto del deepwood. Instituì una nuova religione farlocca, figlia di un vecchio culto che risaliva alla guerra dei magi per portare sotto la propria bandiera ogni individuo che volesse mettersi alla prova, promettendo grossi privilegi al fine della guerra e iniziò a rapire intere tribu o popolazioni dei villaggi più rudimentali. Erano prevalentemente razze dai connotati magici, come elfi, goblin e orchi.
 I maghi ricercatori in questione venivano dal continente bianco ed erano capitanati dal capo dell'intelligence sir Lanselot, il vessillo attuale di Lord Soth. Mentre sir Lanselot, prima reincendiò lo spettro del defunto Caradoc (il re traditore) e poi sviluppò diverse ricerche nella prigione duergare Revel's End dove si commettevano ricerche biologiche per il controllo mentale e la creazione di una nuova razza che potesse assumere le sembianze di qualsiasi individuo, i doppelganger per rimpolpare e rendere l'esercito il più efficiente possibile.
 Tutti i ricercatori occupavano la posizione di generale dell'esercito e riuscirono ad occupare gran parte della zona forestale durante la durata del conflitto per svolgere le proprie ricerche e trovare la cittadella dai nomi perduti.
